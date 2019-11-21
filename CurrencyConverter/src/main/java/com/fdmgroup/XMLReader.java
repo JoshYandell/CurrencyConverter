@@ -16,7 +16,7 @@ import org.xml.sax.SAXException;
 
 public class XMLReader {
 
-	InputStream input;
+	private InputStream input;
 
 	public XMLReader(InputStream input) {
 		
